@@ -1,0 +1,23 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"font_size": 18,
+	"enable_tab_scrolling": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"mini_diff": false,
+	"overlay_scroll_bars": "enabled",
+	"show_definitions":false,
+	"theme": "Agila.sublime-theme",
+	"update_check":false,
+	"enable_tab_scrolling": false,
+	"auto_complete_include_snippets": false,
+	"ui_scale": 1,
+	"draw_indent_guides": false,
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0
+	
+}
